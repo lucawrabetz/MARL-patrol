@@ -4,5 +4,6 @@ Class project for "Advanced Topics in Machine Learning and Game Theory" - Gradua
 
 - [x] conda an environment set up - numpy and gym installed fine
 - [ ] fix issue with tensorflow 1.8.0? not found by pip, 1.x no longer actively supported, 2.x not backcompatible, discussion ongoing in docs/class
-- [x] Cloned MADDPG repo
+- [x] cloned (as submodule) multiagent-particle-envs repo
+- [x] cloned (as submodule) maddpg repo
 - [ ] 
